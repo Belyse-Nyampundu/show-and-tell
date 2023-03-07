@@ -1,0 +1,162 @@
+body{
+    margin: 2%;
+    font-family: "Trirong", serif;
+    font-weight: 100;
+    font-size: medium;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    background-image: url("/e.jpeg");
+background-repeat: no-repeat;
+background-position: center;
+    
+  
+}
+header{
+
+}
+.logo{
+    float: left;
+}
+nav{
+    float: right;
+}
+nav ul{
+    margin: 0%;
+    padding: 0;
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 50px;
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+}
+nav a:hover{
+    color: blue;
+}
+.heading{   
+    padding-top: 100px;
+    text-align: center;
+    
+}
+#nice{
+    color:green;
+}
+#commerce{
+    color: rgb(72, 72, 246);
+}
+h1{
+    font-size: 60px;
+}
+button{
+  
+    width: 100px;
+    height: 30px;
+    font-size: large;
+    border-radius: 5px;
+    background-color: white;
+    
+    
+}
+.products{
+    padding-top: 200px;
+
+    color: rgb(116, 53, 175);
+}
+.fashion-image{
+    float: right;
+    padding-top: 200px;
+    padding-left: 300px;
+}
+.fashion{
+    width: 600px;
+    height: ;
+}
+.shirts{
+    display: flex;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.first-shirt{
+padding: 20px;
+}
+.second.shirt{
+    padding:20px
+}
+.third-shirt{
+    padding: 20px;
+}
+ .shorts{
+    display: flex;
+    background-color: rgb(238, 233, 233);
+    border-radius: 20px;
+ }  
+ .first-short{
+    padding: 20px;
+ } 
+ .second-short{
+    padding: 20px;
+ }
+ .third-short{
+    padding: 20px;
+ }
+ .dress{
+    display: flex;
+     background-color: rgb(240, 218, 210);
+    border-radius: 20px; */
+ }
+ .first-dress{
+padding: 30px;
+ }
+ .second-dress{
+    padding: 30px;
+ }
+ .third-dress{
+    padding: 30px;
+ }
+ .girl{
+    float: right;
+    padding-top: 15px;
+    padding-left: 300px;   
+ }
+ .korea-girl{
+    width: 800px;   
+ }
+ .crop-top{
+    display: flex; 
+    background-color: whitesmoke;
+   border-radius: 20px; 
+ }
+ .top1{
+    padding: 20px;
+ }
+ .top2{
+    padding: 20px; 
+ }
+ .top3{
+    padding: 20px; 
+}
+.tracking{
+  padding-top: 100px;
+  text-align: center;
+  background-color: antiquewhite;
+  border-radius: 20px;
+  margin-top: 90px;
+} 
+.boxx{
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+
+
+
+
+    
